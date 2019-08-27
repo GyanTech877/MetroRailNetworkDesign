@@ -1,0 +1,5 @@
+apt-get update
+apt install vim
+apt install maven
+DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null && pwd )"
+mvn -f $DIR/../pom.xml clean install

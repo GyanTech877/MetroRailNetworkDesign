@@ -54,14 +54,14 @@ Peak hours (6am-9am and 6pm-9pm on Mon-Fri)
 
 Night hours (10pm-6am on Mon-Sun)
 	DT, CG and CE lines do not operate
-	TE line takes 8 minutes per stop
-	All trains take 10 minutes per stop
+	TE line takes 8 minutes per station
+	All trains take 10 minutes per station
 	Every train line change adds 10 minutes of waiting time to the journey
 
 
 Non-Peak hours (all other times)
-	DT and TE lines take 8 minutes per stop
-	All trains take 10 minutes per stop
+	DT and TE lines take 8 minutes per station
+	All trains take 10 minutes per station
 	Every train line change adds 10 minutes of waiting time to the journey
 
 
