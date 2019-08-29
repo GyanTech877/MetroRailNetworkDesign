@@ -1,7 +1,3 @@
-Zendesk Backend Exercise
-==========================
-
-
 ## Problem Statement
 
 
